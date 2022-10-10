@@ -1,4 +1,4 @@
-# thesis_repos
+# Thesis_repos
 
 Main package in FedDifPrivModels. Illustration.ipynb gives an example of how to use this package.
 
