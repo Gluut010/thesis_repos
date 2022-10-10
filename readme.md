@@ -19,7 +19,7 @@ A general overview of the code
 - data_loading.py. program to load and preprocess the datasets used in this thesis.
 - illustration.ipynb. Illustration of the FedDifPrivModel "package" .
 - mainEvaluation.py. Program to evaluate all trained models with multiprocessing.
-- mainTemp.ipynb. ....
+- mainTemp.ipynb. Temp main to see if everything goes correctly.
 - mainTrain.py. Program to train all models, using multiprocessing.
 - plots.R. Some plots for the thesis.
 - resultsPlots.ipynb.
